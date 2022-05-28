@@ -1,0 +1,21 @@
+.Contact{
+    background: linear-gradient(to left, rgb(255, 255, 255), rgb(0, 0, 0));
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .body{
+    padding: 0;
+  }
+  .Contact-page1{
+    height: 40vh;
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to left, rgb(0, 0, 0), rgb(255, 255, 255));
+    border-bottom-right-radius: 35%;
+  }
+  .contact-base{
+    margin-top: 200px;
+   height: 100px;
+  }
